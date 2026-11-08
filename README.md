@@ -67,4 +67,4 @@ No subas a GitHub contraseñas ni claves. Si usas una base de datos con credenci
 ## Equipo
 
 - Piero Yovera Anaya (backend)
-- Mar Bellver Alecreu (frontend, en [taskflow-frontend](https://github.com/piero2607/taskflow-frontend))
+- Mar Bellver Alacreu (frontend, en [taskflow-frontend](https://github.com/piero2607/taskflow-frontend))
