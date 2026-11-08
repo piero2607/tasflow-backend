@@ -1,6 +1,6 @@
 # TaskFlow Backend
 
-API REST de TaskFlow, una aplicación para gestionar proyectos y tareas en equipos pequeños. Este repositorio tiene solo el backend. El frontend está en [taskflow-frontend](https://github.com/USUARIO/taskflow-frontend).
+API REST de TaskFlow, una aplicación para gestionar proyectos y tareas en equipos pequeños. Este repositorio tiene solo el backend. El frontend está en [taskflow-frontend](https://github.com/piero2607/taskflow-frontend).
 
 Es el proyecto final del ciclo de Desarrollo de Aplicaciones Web (DAW), curso 2026-2027.
 
@@ -41,7 +41,7 @@ El backend sigue una arquitectura hexagonal, que separa la lógica de negocio de
 ## Instalación y ejecución
 
 ```bash
-git clone https://github.com/USUARIO/taskflow-backend.git
+git clone https://github.com/piero2607/taskflow-backend.git
 cd taskflow-backend
 ./mvnw spring-boot:run
 ```
@@ -67,4 +67,4 @@ No subas a GitHub contraseñas ni claves. Si usas una base de datos con credenci
 ## Equipo
 
 - Piero Yovera Anaya (backend)
-- Mar Bellver Alecreu (frontend, en [taskflow-frontend](https://github.com/USUARIO/taskflow-frontend))
+- Mar Bellver Alecreu (frontend, en [taskflow-frontend](https://github.com/piero2607/taskflow-frontend))
